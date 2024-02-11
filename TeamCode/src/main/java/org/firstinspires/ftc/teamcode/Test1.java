@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorEx;
 
 public class Test1 extends LinearOpMode {
-    DcMotorEx  fs;
+    DcMotorEx  fs,fd;
     @Override
     public void runOpMode() throws InterruptedException {
 
